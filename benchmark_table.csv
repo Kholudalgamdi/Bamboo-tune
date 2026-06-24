@@ -1,0 +1,9 @@
+,Base,FineTuned,Delta,Winner
+helpfulness,3.44,3.74,0.3,FT
+accuracy,2.82,3.03,0.21,FT
+policy_alignment,3.44,3.77,0.33,FT
+tone,3.85,3.95,0.1,FT
+safety,3.56,4.0,0.44,FT
+escalation,2.67,3.13,0.46,FT
+conciseness,2.67,3.05,0.38,FT
+OVERALL,3.21,3.52,0.32,
